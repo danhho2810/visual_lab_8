@@ -1,0 +1,14 @@
+body {
+    color: black;
+}
+h2 {
+    font-weight: bold;
+}
+
+p {
+    font-weight: 500;
+}
+
+a {
+    color: red;
+}
